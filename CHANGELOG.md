@@ -1,5 +1,20 @@
 # Changelog
 
+### [2.5.2](https://www.github.com/googleapis/java-bigquery/compare/v2.5.1...v2.5.2) (2021-12-08)
+
+
+### Bug Fixes
+
+* **java:** add -ntp flag to native image testing command ([#1299](https://www.github.com/googleapis/java-bigquery/issues/1299)) ([#1738](https://www.github.com/googleapis/java-bigquery/issues/1738)) ([585875e](https://www.github.com/googleapis/java-bigquery/commit/585875e776e17660c58f9f8fe8385f13833bca57))
+
+
+### Dependencies
+
+* update dependency com.google.apis:google-api-services-bigquery to v2-rev20211129-1.32.1 ([#1737](https://www.github.com/googleapis/java-bigquery/issues/1737)) ([776ff10](https://www.github.com/googleapis/java-bigquery/commit/776ff1004592f62799ff0244a448d6911bcca5be))
+* update dependency com.google.cloud:google-cloud-bigtable to v2.3.1 ([#1741](https://www.github.com/googleapis/java-bigquery/issues/1741)) ([2f31a0a](https://www.github.com/googleapis/java-bigquery/commit/2f31a0a4f491eca25cbd3992e48f94214bfd605b))
+* update dependency com.google.cloud:google-cloud-bigtable to v2.4.0 ([#1746](https://www.github.com/googleapis/java-bigquery/issues/1746)) ([92e5d02](https://www.github.com/googleapis/java-bigquery/commit/92e5d02ff25511233b15f07844bb8b13de2dc72f))
+* update dependency com.google.cloud:google-cloud-storage to v2.2.2 ([#1740](https://www.github.com/googleapis/java-bigquery/issues/1740)) ([2022301](https://www.github.com/googleapis/java-bigquery/commit/2022301b39390f20796b8c5b3d6ee0e82aa127aa))
+
 ### [2.5.1](https://www.github.com/googleapis/java-bigquery/compare/v2.5.0...v2.5.1) (2021-12-03)
 
 
